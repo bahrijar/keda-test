@@ -1,0 +1,13 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Keda Test 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
